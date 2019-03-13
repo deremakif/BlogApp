@@ -1,0 +1,19 @@
+[
+  {
+    "outputFileName": "wwwroot/css/bundle.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "wwwroot/lib/font-awesome/css/font-awesome.css",
+      "wwwroot/css/style.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/bundle.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery.js",
+      "wwwroot/lib/tether/dist/js/tether.js",
+      "wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "wwwroot/js/script.js"
+    ]
+  }
+]

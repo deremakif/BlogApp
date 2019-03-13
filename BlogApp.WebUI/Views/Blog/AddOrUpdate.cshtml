@@ -1,0 +1,64 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+    <h2>Create Blog</h2>
+    <br />
+
+    <form asp-controller="Blog" asp-action="AddOrUpdate" method="post">
+
+        <input type="hidden" asp-for="BlogId" />
+        <div class="form-group">
+            <label asp-for="Title"></label>
+            <input asp-for="Title" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Body"></label>
+            <textarea asp-for="Body" class="form-control"></textarea>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Image"></label>
+            <input asp-for="Image" class="form-control">
+        </div>  
+        
+        <div class="form-check">
+            <label class="form-check-label">
+                <input asp-for="isApproved" class="form-check-input">
+                is Approved
+            </label>
+        </div>
+
+        <div class="form-check">
+            <label class="form-check-label">
+                <input asp-for="isHome" class="form-check-input">
+                is Home
+            </label>
+        </div>
+
+        <div class="form-check">
+            <label class="form-check-label">
+                <input asp-for="isSlider" class="form-check-input">
+                is Slider
+            </label>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CategoryId"></label>
+            <select class="form-control" asp-for="CategoryId" asp-items="ViewBag.Categories">
+                <option disabled selected value="">Select Category</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

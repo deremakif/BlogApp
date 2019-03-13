@@ -1,0 +1,29 @@
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.deps.json
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.deps.json
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\mehmet akif\Desktop\ASP.NET\Asp.Net Core 2 MVC\Rars\BlogApp-Source\19-Html Editor\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.deps.json
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.pdb

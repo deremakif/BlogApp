@@ -1,0 +1,9 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "Font-Awesome#v4.7.0",
+    "ckeditor": "4.8.0"
+  }
+}

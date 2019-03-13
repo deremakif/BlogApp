@@ -1,0 +1,27 @@
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.deps.json
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.pdb
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.dll
+C:\Users\sadikturan\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.pdb
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.deps.json
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.dll
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.pdb
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfo.cs
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csproj.CopyComplete
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.dll
+C:\Users\mehmet akif\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.pdb
